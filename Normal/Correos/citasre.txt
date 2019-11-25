@@ -1,0 +1,8 @@
+Notificación Citas SRE: Confirmación de registro
+Estimado(a) ARANZA VALERIA SANDOVAL,
+
+
+Para finalizar tu registro, por favor haz clic en el siguiente enlace, o bien puedes pegarlo en la barra de dirección de tu navegador:
+
+https://citas.sre.gob.mx/citas.webportal/pages/public/registro/confirmarRegistro.jsf?token=GSWXA1&userName=arasandg@gmail.com
+

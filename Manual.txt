@@ -1,0 +1,11 @@
+Iniciar hadoop
+
+hdfs dfs -start
+
+Iniciar Spark 
+
+spark -start
+
+Iniciar julia
+
+julia start

@@ -1,0 +1,6 @@
+Introduction to JavaScript
+Realizar el curso Introduction to JavaScript en https://www.codecademy.com/learn/introduction-to-javascript
+
+Deben subir a su carpeta la evidencia del avance y conclusion del curso en un archivo PDF (Entre 4 y 10 imagenes). Recuerden que cada imagen de la evidencia debe mostrar el nombre del usuario completo y fotografía
+
+Recuerden que el nombre del archivo debe seguir el siguiente formato

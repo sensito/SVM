@@ -1,0 +1,9 @@
+Crear un website que hable de ustedes: Qué eres y que te gusta hacer, qué piensas hacer cuando termines Upiicsa, qué piensas estar haciendo 3 años despues que termines Upiicsa.
+
+Debe contener al menos 4 paginas (Indice y tres paginas de contenido (No usar rutas absolutas)
+Debe utilizar alguna hoja de estilo externa
+Debe contener al menos 1 foto de ustedes
+No se valen paginas con poco contenido
+Enviar todos los archivos en un archivo ZIP con el nombre definido para las tareas
+
+PROHIBIDO : Usar programas de creación de sitios Web. Solo necesitar un editor de texto (Notepad, Notepad++, Sublime, Atom pueden ser utilizados)
