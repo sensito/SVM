@@ -1,4 +1,3 @@
-# -*- encoding utf-8 -*-
 import glob2
 
 def data(route, name):
@@ -9,5 +8,7 @@ def data(route, name):
             with open(file, encoding='utf8', errors='ignore') as infile:
                 f.write(infile.read()+'\n')
 
+# We pass the route where the spam emails are and the name of the file
 data(route="./Datos/Spam/*.txt", name='spam.txt')
+# We pass the route where the normal emails and the file name are
 data(route="./Datos/Normal/*.txt", name='normal.txt')
