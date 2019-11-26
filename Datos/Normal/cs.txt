@@ -1,0 +1,8 @@
+Practica Cliente - Servidor
+Seguir las instrucciones del documento
+https://drive.google.com/file/d/1ZtcOPGyQTmkSrnuy42idgGCsvEc6qKOl/view?usp=sharing
+
+Van a requerir el archivo
+https://drive.google.com/file/d/1TTPRUSq9JSL6Ct3LvoflwqCaHn6Xx2VS/view?usp=sharing
+
+Entregar la evidencia de ambas partes en un solo archivo formato PDF con la notación definida

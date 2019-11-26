@@ -1,0 +1,7 @@
+Estimado(a)  Aranza Valeria Sandoval González,
+
+Ha solicitado un cambio de su dirección email en su cuenta de Moodle
+Valdepeña. Abra por favor la siguiente dirección en su navegador para
+confirmar este cambio.
+
+http://ehvaldepenia.com/moodle/user/emailupdate.php?key=Kvd28WTETPnVEN8qK1ZP&id=1146
