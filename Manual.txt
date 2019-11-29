@@ -1,11 +1,15 @@
-Iniciar hadoop
+iniciar HDFS ejecutando start-dfs.cmd y start-yarn.cmd en cmd:
 
-hdfs dfs -start
+%%bash
 
-Iniciar Spark 
+#creamos la Carpeta FuentesMllib en Hadoop
 
-spark -start
+$hdfs dfs -mkdir /FuentesMllib
 
-Iniciar julia
+#Subir archivos de spam.txt y normal.txt a la carpeta FuentesMllib en hadoop
 
-julia start
+$hdfs dfs -copyFromLocal spam.txt /FuentesMllib
+
+$hdfs dfs -copyFromLocal normal.txt /FuentesMllib}
+
+Debe verificar que el namenode, datanode, resourcemanager y nodemanager se estén ejecutando. También puede abrir localhost: 8088 y localhost: 9870 en su navegador para monitorear su nuevo y brillante Sistema de archivos distribuidos Hadoop:
