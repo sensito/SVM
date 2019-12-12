@@ -1,8 +1,0 @@
-Descarga la aplicación para escritorio
-y aprovecha tu Dropbox al máximo
-Las aplicaciones para Windows y Mac agregan una carpeta de Dropbox a tu computadora. Esta carpeta funciona como cualquier otra, pero incluye algunas características adicionales sobresalientes.
-
-Si guardas archivos y fotos en esta carpeta, ocurre lo siguiente:
-Los archivos se sincronizan de forma automática con dropbox.com y con los dispositivos vinculados, incluidos los dispositivos móviles y las tablets.
-Puedes acceder a ellos en los dispositivos vinculados, aunque no tengas conexión a Internet.
-Puedes compartirlos con facilidad con familiares y amigos.

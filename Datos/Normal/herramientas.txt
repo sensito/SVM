@@ -1,7 +1,0 @@
-Hola a todos
-
-En este directorio se encuentra el archivo para instalar el compilador codeblocks,
-
-Saludos
-
-Sergio Fuenlabrada

@@ -1,6 +1,0 @@
-Learn HTML
-Realizar el curso Learn HTML en el sitio https://www.codecademy.com/learn/learn-html
-
-Deben subir a su carpeta la evidencia del avance y conclusion del curso en un archivo PDF (Entre 4 y 10 imagenes). Recuerden que cada imagen de la evidencia debe mostrar el nombre del usuario completo y su fotografia.
-
-El nombre del archivo debe seguir el siguiente formato
